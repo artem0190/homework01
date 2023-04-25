@@ -1,0 +1,308 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+a{
+    color: #fff;
+    gap: 100px;
+    margin-top: 10px;
+}
+
+header{
+    background: url(https://avatanplus.com/files/resources/original/582d9d21be9e7158722dcbf5.jpg);
+    width: 100%;
+    height: 750px;
+    background-repeat: no-repeat;
+    background-position: top;
+    display: flex;
+    padding: 40px;
+}
+
+.photo1{
+    display: flex;
+    margin-left: 230px;
+    width: 80px;
+    height: 80px;
+}
+
+.q1{
+    display: flex;
+    margin-left: 700px;
+    gap: 50px;
+}
+
+.q2{
+    width: 200px;
+    height: 50px;
+    background-color: rgba(255, 0, 0, 0);
+    color: white;
+    border: solid 1px white;
+    font-size: 1.3rem;
+}
+
+.w1{
+    position: absolute;
+    display: grid;
+    margin-top: 190px;
+    margin-left: 790px;
+}
+
+.we{
+    font-size: 4rem;
+    margin-left: 10px;
+}
+
+.na{
+    font-size: 8rem;
+    margin-left: -25px;
+    margin-top: -30px;
+}
+
+.look{
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+}
+
+.e1{
+    width: 200px;
+    height: 50px;
+    background-color: rgba(255, 238, 0, 0);
+    color: rgb(0, 0, 0);
+    border: solid 4px rgb(0, 0, 0);
+    font-size: 1.3rem;
+    margin-top: 30px;
+    margin-left: 70px;
+    font-weight: bold;
+}
+
+/* /////////////////////////////////////////////////////////////////////////////////////////////// */
+
+
+main{
+    width: 100%;
+    height: 2550px;
+}
+
+.our{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    font-size: 1.5rem;
+}
+
+.photo2{
+    width: 100%;
+    height: 600px;
+    display: grid;
+    grid-template-columns: repeat(3 , 350px);
+    gap: 25px;
+    justify-content: center;
+}
+
+.photo3{
+    margin-top: 90px;
+    width: 350px;
+    height: 450px;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    margin-top: 50px;
+}
+
+.p1{
+    background: url(https://websitedemos.net/love-nature-02/wp-content/uploads/sites/988/2021/11/service-1.jpg);
+}
+
+.p2{
+    background: url(https://websitedemos.net/love-nature-02/wp-content/uploads/sites/988/2021/11/service-2.jpg);
+}
+
+.p3{
+    background: url(https://websitedemos.net/love-nature-02/wp-content/uploads/sites/988/2021/11/service-3.jpg);
+}
+
+/* ////////////////////////////////////////////////////////////////////////////////////// */
+
+.text{
+    width: 100%;
+    height: 600px;
+    display: grid;
+    grid-template-columns: repeat(3 , 350px);
+    gap: 25px;
+    justify-content: center;
+}
+
+p{
+    color: gray;
+    font-size: 1.2rem;
+}
+
+.t1{
+    padding: 10px;
+    margin-top: -59px;
+}
+
+.h1{
+    color: grey;
+    margin-top: -5px;
+}
+/* //?///////??/././.??>/>/>/>>?>?>?.>/.?>..../?.,>?/>?><?<>?l'/.' */
+
+.original{
+    background-color: #c0c8d2;
+    width: 100%;
+    height: 500px;
+    margin-top: -450px;
+    display: grid;
+    grid-template-columns: repeat( 1 , 500px);
+    justify-content: center;
+}
+
+.photo01{
+    background: url(https://websitedemos.net/love-nature-02/wp-content/uploads/sites/988/2021/11/quotes.svg);
+    width: 50px;
+    height: 50px;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    margin-left: 220px;
+    margin-top: 90px;
+}
+
+.and{
+    display: flex;
+    justify-content: center;
+    margin-top: -30px;
+}
+
+.z1{
+    margin-top: -50px;
+}
+
+.z2{
+    margin-top: -70px;
+}
+
+.photo02{
+    background: url(https://cdn.discordapp.com/attachments/1082314510662123533/1100399570804031610/IMG_20221110_141620_945.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center;
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    margin-left: 200px;
+}
+
+.k1{
+    margin-left: 170px;
+}
+/* ////////////////////////////////////////////////////// */
+
+.about{
+    display: flex;
+    width: 100%;
+    height: 600px;
+}
+
+.text8{
+    display: grid;
+    flex: 0.5;
+    width: 100%;
+}
+
+.us{
+    justify-content: center;
+    display: flex;
+    margin-top: 140px;
+}
+
+.tell{
+    display: flex;
+    margin-left: 385px;
+    color: grey;
+    margin-top: -65px;
+}
+
+.photo04{
+    background: url(https://websitedemos.net/love-nature-02/wp-content/uploads/sites/988/2021/11/leaf.jpg);
+    width: 300px;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 550px;
+    flex: 0.5;
+    margin-right: 150px;
+    margin-top: 80px;
+}
+
+.bec{
+    display: flex;
+    margin-left: 385px;
+    margin-top: -30px;
+}
+
+.find{
+    width: 200px;
+    height: 60px;
+    margin-left: 385px;
+    background-color: rgba(255, 255, 255, 0);
+    border: solid 1px grey;
+}
+
+/* |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| */
+
+
+.question{
+    width: 100%;
+    margin-top: 100px;
+    height: 500px;
+    display: grid;
+    justify-content: center;
+    background: url(https://cojo.ru/wp-content/uploads/2022/12/shveitsariia-alpy-les-2.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.que{
+    color: darkgreen;
+    font-size: 3.5rem;
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+.even{
+    margin-top: -65px;
+    display: flex;
+    justify-content: center;
+}
+
+.let{
+    width: 200px;
+    height: 60px;
+    background-color: rgba(4, 104, 255, 0);
+    font-size: 1.5rem;
+    font-weight: bold;
+    border: solid 4px black;
+    margin-left: 120px;
+    margin-top: -50px;
+}
+
+/* //////////////////////////////////////// */
+
+.t123{
+    background: url(https://websitedemos.net/love-nature-02/wp-content/uploads/sites/988/2021/11/logo-green.svg);
+    width: 100px;
+    height: 90px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    margin-top: -20px;
+    margin-left: 900px;
+}
